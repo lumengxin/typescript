@@ -4,29 +4,36 @@ import fs from 'fs'
 import path from 'path'
 import BaiduAnalytics from './analyzer/baiduAnalyzer'
 
+export interface Analyzer {
+  analyzer: (html: string, filePath: string) => string
+}
+
 class Crowller {
-  private url = `http://www.baidu.com/`
   private filePath = path.resolve(__dirname, '../data/course.json')
 
-  async getRawHtml() {
+  private async getRawHtml() {
     const result = await superagent.get(this.url)
     return result.text
   }
 
-  writeFile(content: string) {
+  private writeFile(content: string) {
     fs.writeFileSync(this.filePath, content)
   }
 
-  async initSpiderProcess() {
+  private async initSpiderProcess() {
     const html = await this.getRawHtml()
     const fileContent = this.baiduAnalyzer.analyzer(html, this.filePath)
     this.writeFile(fileContent)
   }
 
-  constructor(private baiduAnalyzer: any) {
+  constructor(private url: string, private baiduAnalyzer: Analyzer) {
     this.initSpiderProcess()
   }
 }
 
-const baiduAnalyzer = new BaiduAnalytics()
-const crowller = new Crowller(baiduAnalyzer)
+const url = `http://www.baidu.com/`
+
+// const baiduAnalyzer = new BaiduAnalytics()
+const baiduAnalyzer = BaiduAnalytics.getInstance()
+
+new Crowller(url, baiduAnalyzer)

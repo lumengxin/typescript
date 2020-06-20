@@ -1,5 +1,6 @@
 import cheerio from 'cheerio'
 import fs from 'fs'
+import { Analyzer } from '../app'
 
 interface Course {
   rank: number
@@ -13,7 +14,15 @@ interface Content {
   [propName: number]: Course[]
 }
 
-export default class BaiduAnalyzer {
+export default class BaiduAnalyzer implements Analyzer {
+  private static instance: BaiduAnalyzer
+
+  static getInstance() {
+    if (!BaiduAnalyzer.instance) {
+      BaiduAnalyzer.instance = new BaiduAnalyzer()
+    }
+    return BaiduAnalyzer.instance
+  }
 
   private getCourseInfo(html: string) {
     const $ = cheerio.load(html)
@@ -34,7 +43,7 @@ export default class BaiduAnalyzer {
     }
   }
 
-  generateJsonContent(courseInfo: CourseResult, filePath: string) {
+  private generateJsonContent(courseInfo: CourseResult, filePath: string) {
     let fileContent: Content = {}
     if (fs.existsSync(filePath)) {
       fileContent = JSON.parse(fs.readFileSync(filePath, 'utf8'))
@@ -48,4 +57,6 @@ export default class BaiduAnalyzer {
     const fileContent = this.generateJsonContent(courseInfo, filePath)
     return JSON.stringify(fileContent)
   }
+
+  private constructor() {}
 }
