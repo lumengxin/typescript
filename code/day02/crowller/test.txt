@@ -1,0 +1,1300 @@
+initialize {
+  '0': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'text',
+      data: '\n',
+      parent: [Object],
+      prev: null,
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '1': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '2': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '3': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '4': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '5': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '6': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '7': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '8': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '9': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '10': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '11': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '12': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '13': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '14': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '15': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '16': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '17': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '18': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '19': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {},
+    'x-attribsNamespace': [Object: null prototype] {},
+    'x-attribsPrefix': [Object: null prototype] {},
+    children: [ [Object], [Object], [Object], [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Object]
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'text',
+      data: '   ',
+      parent: [Object],
+      prev: [Circular],
+      next: null
+    }
+  },
+  options: {
+    withDomLvl1: true,
+    normalizeWhitespace: false,
+    xml: false,
+    decodeEntities: true
+  },
+  _root: initialize {
+    '0': {
+      type: 'root',
+      name: 'root',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: null,
+      prev: null,
+      next: null
+    },
+    options: {
+      withDomLvl1: true,
+      normalizeWhitespace: false,
+      xml: false,
+      decodeEntities: true
+    },
+    length: 1,
+    _root: [Circular]
+  },
+  length: 20,
+  prevObject: initialize {
+    '0': {
+      type: 'root',
+      name: 'root',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: null,
+      prev: null,
+      next: null
+    },
+    options: {
+      withDomLvl1: true,
+      normalizeWhitespace: false,
+      xml: false,
+      decodeEntities: true
+    },
+    length: 1,
+    _root: [Circular]
+  }
+} 
+
+
+initialize {
+  '0': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {
+      class: 'hotsearch-item odd',
+      'data-index': '0'
+    },
+    'x-attribsNamespace': [Object: null prototype] {
+      class: undefined,
+      'data-index': undefined
+    },
+    'x-attribsPrefix': [Object: null prototype] {
+      class: undefined,
+      'data-index': undefined
+    },
+    children: [ [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype],
+      'x-attribsNamespace': [Object: null prototype],
+      'x-attribsPrefix': [Object: null prototype],
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: null
+    },
+    prev: null,
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype],
+      'x-attribsNamespace': [Object: null prototype],
+      'x-attribsPrefix': [Object: null prototype],
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '1': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {
+      class: 'hotsearch-item even',
+      'data-index': '3'
+    },
+    'x-attribsNamespace': [Object: null prototype] {
+      class: undefined,
+      'data-index': undefined
+    },
+    'x-attribsPrefix': [Object: null prototype] {
+      class: undefined,
+      'data-index': undefined
+    },
+    children: [ [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype],
+      'x-attribsNamespace': [Object: null prototype],
+      'x-attribsPrefix': [Object: null prototype],
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: null
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype],
+      'x-attribsNamespace': [Object: null prototype],
+      'x-attribsPrefix': [Object: null prototype],
+      children: [Array],
+      parent: [Object],
+      prev: null,
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype],
+      'x-attribsNamespace': [Object: null prototype],
+      'x-attribsPrefix': [Object: null prototype],
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '2': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {
+      class: 'hotsearch-item odd',
+      'data-index': '1'
+    },
+    'x-attribsNamespace': [Object: null prototype] {
+      class: undefined,
+      'data-index': undefined
+    },
+    'x-attribsPrefix': [Object: null prototype] {
+      class: undefined,
+      'data-index': undefined
+    },
+    children: [ [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype],
+      'x-attribsNamespace': [Object: null prototype],
+      'x-attribsPrefix': [Object: null prototype],
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: null
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype],
+      'x-attribsNamespace': [Object: null prototype],
+      'x-attribsPrefix': [Object: null prototype],
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype],
+      'x-attribsNamespace': [Object: null prototype],
+      'x-attribsPrefix': [Object: null prototype],
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '3': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {
+      class: 'hotsearch-item even',
+      'data-index': '4'
+    },
+    'x-attribsNamespace': [Object: null prototype] {
+      class: undefined,
+      'data-index': undefined
+    },
+    'x-attribsPrefix': [Object: null prototype] {
+      class: undefined,
+      'data-index': undefined
+    },
+    children: [ [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype],
+      'x-attribsNamespace': [Object: null prototype],
+      'x-attribsPrefix': [Object: null prototype],
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: null
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype],
+      'x-attribsNamespace': [Object: null prototype],
+      'x-attribsPrefix': [Object: null prototype],
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype],
+      'x-attribsNamespace': [Object: null prototype],
+      'x-attribsPrefix': [Object: null prototype],
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: [Object]
+    }
+  },
+  '4': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {
+      class: 'hotsearch-item odd',
+      'data-index': '2'
+    },
+    'x-attribsNamespace': [Object: null prototype] {
+      class: undefined,
+      'data-index': undefined
+    },
+    'x-attribsPrefix': [Object: null prototype] {
+      class: undefined,
+      'data-index': undefined
+    },
+    children: [ [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype],
+      'x-attribsNamespace': [Object: null prototype],
+      'x-attribsPrefix': [Object: null prototype],
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: null
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype],
+      'x-attribsNamespace': [Object: null prototype],
+      'x-attribsPrefix': [Object: null prototype],
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype],
+      'x-attribsNamespace': [Object: null prototype],
+      'x-attribsPrefix': [Object: null prototype],
+      children: [Array],
+      parent: [Object],
+      prev: [Circular],
+      next: null
+    }
+  },
+  '5': {
+    type: 'tag',
+    name: 'li',
+    namespace: 'http://www.w3.org/1999/xhtml',
+    attribs: [Object: null prototype] {
+      class: 'hotsearch-item even',
+      'data-index': '5'
+    },
+    'x-attribsNamespace': [Object: null prototype] {
+      class: undefined,
+      'data-index': undefined
+    },
+    'x-attribsPrefix': [Object: null prototype] {
+      class: undefined,
+      'data-index': undefined
+    },
+    children: [ [Object] ],
+    parent: {
+      type: 'tag',
+      name: 'ul',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype],
+      'x-attribsNamespace': [Object: null prototype],
+      'x-attribsPrefix': [Object: null prototype],
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: null
+    },
+    prev: {
+      type: 'tag',
+      name: 'li',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype],
+      'x-attribsNamespace': [Object: null prototype],
+      'x-attribsPrefix': [Object: null prototype],
+      children: [Array],
+      parent: [Object],
+      prev: [Object],
+      next: [Circular]
+    },
+    next: null
+  },
+  options: {
+    withDomLvl1: true,
+    normalizeWhitespace: false,
+    xml: false,
+    decodeEntities: true
+  },
+  _root: initialize {
+    '0': {
+      type: 'root',
+      name: 'root',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: null,
+      prev: null,
+      next: null
+    },
+    options: {
+      withDomLvl1: true,
+      normalizeWhitespace: false,
+      xml: false,
+      decodeEntities: true
+    },
+    length: 1,
+    _root: [Circular]
+  },
+  length: 6,
+  prevObject: initialize {
+    '0': {
+      type: 'root',
+      name: 'root',
+      namespace: 'http://www.w3.org/1999/xhtml',
+      attribs: [Object: null prototype] {},
+      'x-attribsNamespace': [Object: null prototype] {},
+      'x-attribsPrefix': [Object: null prototype] {},
+      children: [Array],
+      parent: null,
+      prev: null,
+      next: null
+    },
+    options: {
+      withDomLvl1: true,
+      normalizeWhitespace: false,
+      xml: false,
+      decodeEntities: true
+    },
+    length: 1,
+    _root: [Circular]
+  }
+}
