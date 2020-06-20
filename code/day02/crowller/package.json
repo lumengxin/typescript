@@ -4,15 +4,21 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "ts-node ./src/test.ts",
-    "start": "ts-node ./src/app.ts",
-    "build": "tsc"
+    "dev:build": "tsc -w",
+    "dev:start": "nodemon node ./build/app.js",
+    "dev": "concurrently npm:dev:*"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "data/*"
+    ]
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/cheerio": "^0.22.18",
     "@types/superagent": "^4.1.7",
+    "concurrently": "^5.2.0",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.5"
   },
