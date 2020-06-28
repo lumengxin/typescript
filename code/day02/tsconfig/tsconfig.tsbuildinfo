@@ -1,0 +1,67 @@
+{
+  "program": {
+    "fileInfos": {
+      "c:/users/xin/appdata/roaming/nvm/v12.13.1/node_modules/typescript/lib/lib.d.ts": {
+        "version": "2dc8c927c9c162a773c6bb3cdc4f3286c23f10eedc67414028f9cb5951610f60",
+        "signature": "2dc8c927c9c162a773c6bb3cdc4f3286c23f10eedc67414028f9cb5951610f60",
+        "affectsGlobalScope": false
+      },
+      "c:/users/xin/appdata/roaming/nvm/v12.13.1/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
+        "signature": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
+        "affectsGlobalScope": true
+      },
+      "c:/users/xin/appdata/roaming/nvm/v12.13.1/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "9affb0a2ddc57df5b8174c0af96c288d697a262e5bc9ca1f544c999dc64a91e6",
+        "signature": "9affb0a2ddc57df5b8174c0af96c288d697a262e5bc9ca1f544c999dc64a91e6",
+        "affectsGlobalScope": true
+      },
+      "c:/users/xin/appdata/roaming/nvm/v12.13.1/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "signature": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "affectsGlobalScope": true
+      },
+      "c:/users/xin/appdata/roaming/nvm/v12.13.1/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "affectsGlobalScope": true
+      },
+      "./src/demo.ts": {
+        "version": "2b4f2084c0064d4172bcb2edd395252a1148041d7b0b27557f70a9374e40e992",
+        "signature": "f25abbdeeccf44cf5d2335d3d1a920d2e1b23fc58df7e6c00182c5ea8687875b",
+        "affectsGlobalScope": true
+      },
+      "./src/file.js": {
+        "version": "0368c9af893abd80e83b903ddc3eabc817f37e41ff7bb08e7eef69f9eb7fc0ce",
+        "signature": "a5a251571031fca1aa4bf9b96d371035be76024505dedc59acf78dd38ba1ffdd",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "incremental": true,
+      "target": 1,
+      "module": 1,
+      "allowJs": true,
+      "outDir": "./build",
+      "rootDir": "./src",
+      "removeComments": true,
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "configFilePath": "./tsconfig.json"
+    },
+    "referencedMap": {},
+    "exportedModulesMap": {},
+    "semanticDiagnosticsPerFile": [
+      "c:/users/xin/appdata/roaming/nvm/v12.13.1/node_modules/typescript/lib/lib.d.ts",
+      "c:/users/xin/appdata/roaming/nvm/v12.13.1/node_modules/typescript/lib/lib.dom.d.ts",
+      "c:/users/xin/appdata/roaming/nvm/v12.13.1/node_modules/typescript/lib/lib.es5.d.ts",
+      "c:/users/xin/appdata/roaming/nvm/v12.13.1/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "c:/users/xin/appdata/roaming/nvm/v12.13.1/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "./src/demo.ts",
+      "./src/file.js"
+    ]
+  },
+  "version": "3.9.5"
+}
