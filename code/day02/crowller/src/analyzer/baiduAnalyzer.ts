@@ -1,6 +1,6 @@
 import cheerio from 'cheerio'
 import fs from 'fs'
-import { Analyzer } from '../app'
+import { Analyzer } from '../crowller'
 
 interface Course {
   rank: number
@@ -31,9 +31,10 @@ export default class BaiduAnalyzer implements Analyzer {
     const courseInfo: Course[] = []
 
     bookBox.map((index, element) => {
-      const descs = $(element).find('span')
+      const descs = $(element).find('a > span')
       const rank = parseInt(descs.eq(0).text(), 10)
       const title = descs.eq(1).text()
+      console.log("BaiduAnalyzer -> getCourseInfo -> title",rank, title)
       courseInfo.push({rank, title})
     })
   
@@ -55,6 +56,7 @@ export default class BaiduAnalyzer implements Analyzer {
   public analyzer(html: string, filePath: string) {
     const courseInfo = this.getCourseInfo(html)
     const fileContent = this.generateJsonContent(courseInfo, filePath)
+    // console.log("BaiduAnalyzer -> analyzer -> fileContent", fileContent)
     return JSON.stringify(fileContent)
   }
 

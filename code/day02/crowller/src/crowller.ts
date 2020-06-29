@@ -22,6 +22,7 @@ class Crowller {
 
   private async initSpiderProcess() {
     const html = await this.getRawHtml()
+    console.log("Crowller -> initSpiderProcess -> html", html)
     const fileContent = this.baiduAnalyzer.analyzer(html, this.filePath)
     this.writeFile(fileContent)
   }
@@ -31,9 +32,11 @@ class Crowller {
   }
 }
 
-const url = `http://www.baidu.com/`
+export default Crowller
 
-// const baiduAnalyzer = new BaiduAnalytics()
-const baiduAnalyzer = BaiduAnalytics.getInstance()
+// const url = `http://www.baidu.com/`
 
-new Crowller(url, baiduAnalyzer)
+// // const baiduAnalyzer = new BaiduAnalytics()
+// const baiduAnalyzer = BaiduAnalytics.getInstance()
+
+// new Crowller(url, baiduAnalyzer)

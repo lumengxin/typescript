@@ -19,9 +19,10 @@ var BaiduAnalyzer = /** @class */ (function () {
         var bookBox = $('.hotsearch-item');
         var courseInfo = [];
         bookBox.map(function (index, element) {
-            var descs = $(element).find('span');
+            var descs = $(element).find('a > span');
             var rank = parseInt(descs.eq(0).text(), 10);
             var title = descs.eq(1).text();
+            console.log("BaiduAnalyzer -> getCourseInfo -> title", rank, title);
             courseInfo.push({ rank: rank, title: title });
         });
         return {
@@ -40,6 +41,7 @@ var BaiduAnalyzer = /** @class */ (function () {
     BaiduAnalyzer.prototype.analyzer = function (html, filePath) {
         var courseInfo = this.getCourseInfo(html);
         var fileContent = this.generateJsonContent(courseInfo, filePath);
+        // console.log("BaiduAnalyzer -> analyzer -> fileContent", fileContent)
         return JSON.stringify(fileContent);
     };
     return BaiduAnalyzer;
