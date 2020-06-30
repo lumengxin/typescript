@@ -10,4 +10,4 @@ class Test6 {
 }
 
 const test6 = new Test6()
-test6.getInfo('li', 21)
+test6.getInfo('li', 22)
