@@ -22,7 +22,6 @@ class Crowller {
 
   private async initSpiderProcess() {
     const html = await this.getRawHtml()
-    console.log("Crowller -> initSpiderProcess -> html", html)
     const fileContent = this.baiduAnalyzer.analyzer(html, this.filePath)
     this.writeFile(fileContent)
   }

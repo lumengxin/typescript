@@ -17,6 +17,7 @@ interface Content {
 export default class BaiduAnalyzer implements Analyzer {
   private static instance: BaiduAnalyzer
 
+  // 单例模式
   static getInstance() {
     if (!BaiduAnalyzer.instance) {
       BaiduAnalyzer.instance = new BaiduAnalyzer()
@@ -56,7 +57,6 @@ export default class BaiduAnalyzer implements Analyzer {
   public analyzer(html: string, filePath: string) {
     const courseInfo = this.getCourseInfo(html)
     const fileContent = this.generateJsonContent(courseInfo, filePath)
-    // console.log("BaiduAnalyzer -> analyzer -> fileContent", fileContent)
     return JSON.stringify(fileContent)
   }
 

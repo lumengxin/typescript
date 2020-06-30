@@ -74,7 +74,6 @@ var Crowller = /** @class */ (function () {
                     case 0: return [4 /*yield*/, this.getRawHtml()];
                     case 1:
                         html = _a.sent();
-                        console.log("Crowller -> initSpiderProcess -> html", html);
                         fileContent = this.baiduAnalyzer.analyzer(html, this.filePath);
                         this.writeFile(fileContent);
                         return [2 /*return*/];

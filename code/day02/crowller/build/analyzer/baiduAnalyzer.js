@@ -8,6 +8,7 @@ var fs_1 = __importDefault(require("fs"));
 var BaiduAnalyzer = /** @class */ (function () {
     function BaiduAnalyzer() {
     }
+    // 单例模式
     BaiduAnalyzer.getInstance = function () {
         if (!BaiduAnalyzer.instance) {
             BaiduAnalyzer.instance = new BaiduAnalyzer();
@@ -41,7 +42,6 @@ var BaiduAnalyzer = /** @class */ (function () {
     BaiduAnalyzer.prototype.analyzer = function (html, filePath) {
         var courseInfo = this.getCourseInfo(html);
         var fileContent = this.generateJsonContent(courseInfo, filePath);
-        // console.log("BaiduAnalyzer -> analyzer -> fileContent", fileContent)
         return JSON.stringify(fileContent);
     };
     return BaiduAnalyzer;
