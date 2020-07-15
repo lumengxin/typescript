@@ -1,0 +1,17 @@
+.home-page {
+  width: 60%;
+  margin: 100px auto;
+  margin-top: 200px;
+  background: #ccc;
+}
+.home-page .btns {
+  display: flex;
+  justify-content: space-around;
+  width: 400px;
+  margin: 0 auto;
+  padding: 10px 0 20px 0;
+}
+
+.home-page .ant-btn {
+  border-radius: 20px;
+}

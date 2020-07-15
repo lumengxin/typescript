@@ -24,5 +24,11 @@ tsc --init; // 生成配置
 
 直接输入*tsc*命令，才会执行tsconfig.json
 
-
+## 爬虫项目
+### react构建前端界面
+#### 初始化项目
+```
+npm uninstall create-react-app -g  // 卸载之前npx安装可能存在的老版本
+npx create-react-app frontend-crowller --template typescript --use-npm // 使用npm(默认yarn)
+```
 

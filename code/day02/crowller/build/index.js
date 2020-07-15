@@ -4,9 +4,13 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 var express_1 = __importDefault(require("express"));
-var router_1 = __importDefault(require("./router"));
 var body_parser_1 = __importDefault(require("body-parser"));
 var cookie_session_1 = __importDefault(require("cookie-session"));
+// import router from './router'
+// 使用控制器中运用修饰器生成的router
+require("./controller/LoginController");
+require("./controller/CrowllerController");
+var router_1 = __importDefault(require("./router"));
 var app = express_1.default();
 // 问题1：express库的类型定义文件.d.ts文件类型描述不准确
 // 问题2：使用中间件时，对req或者res做了修改后，实际上的类型并不能改变
